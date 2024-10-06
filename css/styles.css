@@ -29,17 +29,17 @@ a {
 /*--------HEADER---------*/
 
 .header-logo {
-    color: #2E2F42;
-    font-family: Raleway;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
 
-.header-logo-blue {
-    color: #4D5AE5;
+.header-logo-grey {
+    color: #2E2F42;
 }
 
 .header-menu-item a {
@@ -71,6 +71,10 @@ a {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
+}
+
+.contact-info {
+    font-style: normal;
 }
 
 /*--------HERO---------*/
@@ -128,7 +132,8 @@ a {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1; letter-spacing: 0.72px;    
+    line-height: 1.11; letter-spacing: 0.72px; 
+    text-transform: capitalize   
 }
 
 .team-list-subtitle {
@@ -159,10 +164,6 @@ a {
 
 /*--------OUR PORTFOLIO---------*/
 
-.portfolio-list-item {
-    border: 1px solid #E7E9FC
-}
-
 .portfolio-list-subtitle {
     color: #2E2F42;
     font-size: 20px;
@@ -187,10 +188,10 @@ a {
 
 .footer-logo {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.2;letter-spacing: 0.54px;
+    line-height: 1.17;letter-spacing: 0.54px;
     text-transform: uppercase;
     }
     
